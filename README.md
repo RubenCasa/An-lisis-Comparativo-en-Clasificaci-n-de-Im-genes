@@ -89,24 +89,6 @@ Reduce la dimensionalidad un 75% e introduce **invarianza a perturbaciones local
 
 ---
 
-## 📁 Estructura del Proyecto
-
-```
-ACT4/
-├── CNN_vs_MLP_Comparativo.ipynb   # Notebook con la experimentación completa
-├── generar_informe_word.py        # Script generador del informe en Word
-├── generar_informe.py             # Script generador del informe en PDF
-├── fig_parametros.png             # Gráfica comparativa de parámetros
-├── fig_equivarianza.png           # Demostración de equivarianza
-├── fig_maxpooling.png             # Demostración de Max-Pooling
-├── fig_entrenamiento.png          # Curvas de accuracy y loss
-├── Informe_CNN_vs_MLP.docx        # Informe generado (Word)
-├── Informe_CNN_vs_MLP.pdf         # Informe generado (PDF)
-└── README.md                     # Este archivo
-```
-
----
-
 ## 🚀 Cómo Ejecutar
 
 ### 1. Clonar el repositorio
