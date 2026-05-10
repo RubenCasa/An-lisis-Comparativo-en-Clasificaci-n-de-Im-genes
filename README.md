@@ -74,7 +74,7 @@ cnn = keras.Sequential([
 ### 2. Equivarianza a la Traslación
 
 <p align="center">
-  <img src="fig_equivarianza.png" alt="Equivarianza" width="600">
+  <img width="804" height="788" alt="image" src="https://github.com/user-attachments/assets/df6034c2-64c7-462c-a9d7-bff5bd118e2d" />
 </p>
 
 El mismo filtro convolucional detecta bordes verticales **sin importar su ubicación** en la imagen.
@@ -82,7 +82,7 @@ El mismo filtro convolucional detecta bordes verticales **sin importar su ubicac
 ### 3. Max-Pooling
 
 <p align="center">
-  <img src="fig_maxpooling.png" alt="Max-Pooling" width="700">
+  <img width="1339" height="348" alt="image" src="https://github.com/user-attachments/assets/9902e76e-aa46-472a-9b22-b6cfb0d85472" />
 </p>
 
 Reduce la dimensionalidad un 75% e introduce **invarianza a perturbaciones locales**.
