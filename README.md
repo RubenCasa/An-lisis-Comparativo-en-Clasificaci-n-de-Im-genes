@@ -25,7 +25,8 @@
 ## 📈 Curvas de Aprendizaje
 
 <p align="center">
-  <img src="fig_entrenamiento.png" alt="Comparación CNN vs MLP" width="700">
+  <img src="<img width="1389" height="495" alt="image" src="https://github.com/user-attachments/assets/27044de3-cd7b-419d-9268-eacf23c7b976" />
+ alt="Comparación CNN vs MLP" width="700">
 </p>
 
 La CNN muestra una trayectoria ascendente sostenida, mientras que el MLP se estanca rápidamente alrededor del 49%.
